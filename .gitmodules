@@ -1,3 +1,6 @@
 [submodule "hello_cargofu"]
 	path = hello_cargofu
 	url = https://github.com/venkatanagasai6/hello_cargofu.git
+[submodule "rust_book_codes"]
+	path = rust_book_codes
+	url = https://github.com/rust-lang/book.git
